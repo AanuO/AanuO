@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AanuO
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning advanced SQL, Python
-- 💞️ I’m looking to collaborate on Data analysis and visualization
+- 💞️ I’m looking to collaborate on projects that involves analyzing and visualizing data.
 - 📫 How to reach me anuonaolapo@gmail.com, +2348029893877
 
 <!---
